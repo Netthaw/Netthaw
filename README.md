@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Netthaw 
-- 👀 I’m interested in Cryptocurrency, IoT and E-Wallet 
+- 👀 I’m interested in IoT, NAS
 - 📫 How to reach me : veeravech@gmail.com
 <!--  - 🌱 I’m currently learning -->
 <!--  - 💞️ I’m looking to collaborate on ... -->
